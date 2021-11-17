@@ -1,0 +1,1588 @@
+{
+    "events": [
+        {
+            "text": {
+                "headline": "Deutsche Kriegserkl\u00e4rung an Russland und Frankreich", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1914", 
+                "day": "02", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Wiederaufnahme des Schulunterrichts nach Unterbrechung zum Kriegsbeginn", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1914", 
+                "day": "23", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegerl\u00e4nder Art \u2011 Kriegsgedicht von Simon Gr\u00fcnewald ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1915", 
+                "day": "19", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Bis 1. Juni sind 149 M\u00e4nner aus der Stadt Siegen gefallen: 47 Verheiratete, 80 waren evangelisch und 14 katholisch", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1915", 
+                "day": "02", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Werbeanzeige: Photografische Ger\u00e4te zum Versand zum Fotografieren von Kriegsereignissen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1915", 
+                "day": "04", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ehrung des Generalfeldmarschalls von Hindenburg durch Stra\u00dfenbenennung", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1915", 
+                "day": "13", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Hamsterer aus dem Siegerland im Kreis Marburg und Wittgenstein", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1917", 
+                "day": "17", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Die Eiserne S\u00e4ule im Siegener Rathaus ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1917", 
+                "day": "23", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Es herrscht Lebensmittelknappheit im Siegerland", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1917", 
+                "day": "26", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Stark steigende Preise im Krieg \u2013 L\u00f6hne steigen nicht ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1917", 
+                "day": "24", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Klagen \u00fcber Mangel an Fett und Butter", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1918", 
+                "day": "16", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Bildung eines Arbeiter- und Soldatenrats in Siegen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1918", 
+                "day": "10", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Durchsuchung des Siegener Rathauses nach Waffen und Rote Fahne auf dem Rathaus gesetzt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1918", 
+                "day": "12", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Demobilisierung: Tausende von Soldaten mit Ger\u00e4t nehmen Quartier in Siegen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1918", 
+                "day": "25", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Gro\u00dfe Not an Milch \u2013 Lazarette \u00fcberf\u00fcllt ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1918", 
+                "day": "30", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201cDie politischen Parteien und ihre Programme\" Vortrag Dr. Mollat. Frauen haben erstmals Wahlrecht", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "02", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Oberlehrerin Frl. Oetling, Vorsitzende der DNVP-Frauengruppe: \"Wie soll die deutsche Frau w\u00e4hlen?\"", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "06", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ergebnisse der Wahl zur Nationalversammlung", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "19", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Erkl\u00e4rung von Simon Gr\u00fcnewald: Gegen die antij\u00fcdische Hetze in der Stadt Siegen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "29", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schleichhandel mit mit Milch,Vieh und Fleisch ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "27", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "R\u00fcckkehr unserer Kriegsgefangenen: in Meschede werden 1000 Offiziere und 20000 Mann erwartet", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "25", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "B\u00fcrgermeister Alfred Fi\u00dfmer tritt sein Amt in Siegen an", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "19", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": " R\u00fccktritt von Landrat Dr. Bourwieg", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "01", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Wilder Streik in der Siegerl\u00e4nder Metallindustrie und Einmarsch von Reichswehrtruppen", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1919", 
+                "day": "06", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Streik der Eisenbahner ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "08", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Einstellung der Stromerstellung infolge Ausbleibens der Kohlezufuhr", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "10", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "B\u00fcrgerwehr in Siegen aufgestellt ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "18", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Todesf\u00e4lle aufgrund mangelnder Ern\u00e4hrung", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "15", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Synagoge in Siegen gesch\u00e4ndet", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "05", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201eDie Zigeunerplage scheint auch in Siegen aufzutreten.\u201c", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "09", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Eine kommunistische Versammlung in Siegen", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "28", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ausschreitungen auf der Charlottenh\u00fctte in Eiserfeld ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1920", 
+                "day": "25", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Vortrag von Pfr. Fritze in Siegen: \u201eKann ein Christ Sozialdemokrat sein?\u201c ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1921", 
+                "day": "04", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "2400 Schulkinder erhalten eine Qu\u00e4kerspeisung", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1921", 
+                "day": "23", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schwere Tumulte in Siegen: Pl\u00fcnderungen vom K\u00f6lner Tor bis zum Marburger Tor", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1921", 
+                "day": "10", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Sechs LKW mit Schutzpolizei in Siegen eingetroffen \u2013 Warnsch\u00fcsse und Handgranatenw\u00fcrfe ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1921", 
+                "day": "12", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Urteil des Schwurgerichts Arnsberg gegen Pl\u00fcnderer der Unruhen von 1921 in Siegen", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1922", 
+                "day": "24", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Aufruf des Landrats von Wittgenstein an die Landwirte: Siegen leidet unter Milchmangel \u2013 Leben von S\u00e4uglingen und Kranken in Gefahr ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1922", 
+                "day": "04", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ehrenmal am Lehrerseminar Hilchenbach f\u00fcr die gefallenen Helden des Seminars eingeweiht", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1922", 
+                "day": "12", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ausschreitungen und Pl\u00fcnderungen von Gesch\u00e4ften in Dillenburg durch 1500 \u2013 2000 zumeist j\u00fcngere Personen", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1922", 
+                "day": "10", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Protestveranstaltung auf dem Marktplatz in Siegen gegen die Besetzung des Rheinlandes durch Frankreich", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "15", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegerl\u00e4nder Kommunisten m\u00fcssen sich vor dem Reichsgericht in Leipzig verantworten ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "22", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ein Zigeunertrupp von Neunkirchen kommend lagert am Ortseingang von Eiserfeld", 
+                "text": "SZ "
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "08", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Suppenk\u00fcche in der Emilienstra\u00dfe 2 eingerichtet \u2013 demn\u00e4chst werden auch Abendessen ausgeteilt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "02", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Der j\u00fcdische Kaufmann Paul Ferber wurde aufgefordert, die schwarz-rot-goldene Flagge an seinem Gesch\u00e4ft einzuholen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "14", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Eine Notstandsk\u00fcche wurde an der ev. M\u00e4dchenschule eingerichtet \u2013 billiges und nahrhaftes Essen f\u00fcr die Armen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1923", 
+                "day": "08", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201cZu einer wahren Landplage wachsen sich in letzter Zeit wieder h\u00e4ufig durch die Ortschaften ziehende Zigeunerbanden aus.\u201d", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1924", 
+                "day": "06", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Deutscher Tag in Siegen: Versuch einer Gegenkundgebung durch DFG und von \"j\u00fcdisch\u2011 pazifistischer Seite\"", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1924", 
+                "day": "14", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Gregor Strasser spricht in Siegen in der B\u00fcrgergesellschaft", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1924", 
+                "day": "20", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegerl\u00e4nder Kommunisten vor dem Staatsgerichtshof ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1925", 
+                "day": "22", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Das Urteil im Prozess gegen die Siegerl\u00e4nder Kommunisten in Leipzig", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1925", 
+                "day": "28", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Vortrag des DNVP-Lehrervereins: \"Die Notwendigkeit des Kolonialbesitzes f\u00fcr Deutschland\"", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1926", 
+                "day": "30", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Neubenennung von Stra\u00dfen auf dem Rosterberg: Adolf-Wagner-Stra\u00dfe, St\u00f6ckerstra\u00dfe und Damaschkestra\u00dfe ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1927", 
+                "day": "11", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Kranzniederlegung f\u00fcr die Gefallenen aus der Synagogengemeinde Siegen durch Verein Deutsche Kriegsgr\u00e4berf\u00fcrsorge", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1928", 
+                "day": "15", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Erste antisemitische Rede von Pastor M\u00fcnchmeyer (Borkum) in Siegen ", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1929", 
+                "day": "22", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Einrichtung einer Gesch\u00e4ftsstelle der NSDAP Siegen, Sandstr. 7", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1929", 
+                "day": "29", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "DNVP spaltet sich auf: Mehrheit schlie\u00dft sich dem Christlichen Volksdienst an", 
+                "text": "DV"
+            }, 
+            "start_date": {
+                "year": "1930", 
+                "day": "15", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Kommunisten wittern Morgenluft in der gro\u00dfen Zahl der Erwerbslosen, unter denen sie ihre Leimruten auslegen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1930", 
+                "day": "31", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Propagandam\u00e4rsche der NSDAP in Olpe, Siegen, Niederschelden und Eisern zur Reichstagswahl  ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1930", 
+                "day": "11", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Sprengung einer SPD\u2011Versammlung in Eiserfeld durch die SA ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1931", 
+                "day": "12", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "KPD\u2011Unruhen: 2000 Kommunisten wollten Rathaus und Polizeiwache in Siegen st\u00fcrmen, Sch\u00fcsse und Steinw\u00fcrfe", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1931", 
+                "day": "14", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Erste Ausgabe der Siegerl\u00e4nder-National-Zeitung erschienen \u2013 Tageszeitung des schaffenden Westfalen f\u00fcr das Siegerland, Wittgenstein und Olpe", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1931", 
+                "day": "27", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Reichspr\u00e4sidentenwahl", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1932", 
+                "day": "13", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Im Siegerland 31 636 f\u00fcr Hitler, 31 937 f\u00fcr Hindenburg als Reichspr\u00e4sident", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1932", 
+                "day": "11", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Wahl zum Preu\u00dfischen Landtag: Landtagswahl 52,3% (38 943) f\u00fcr NSDAP (im Reich: 36,7%)", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1932", 
+                "day": "24", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Gregor Strasser vor 10 000 Menschen auf dem Nordplatz bei Regen und hohem Eintritt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1932", 
+                "day": "29", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ergebnisse der Reichstagswahlen: NSDAP st\u00e4rkste Partei in Stadt und Kreis Siegen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1932", 
+                "day": "07", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Anl\u00e4sslich der Ernennung Hitlers zum Reichskanzler Kundgebung und Fackelzug in Siegen ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "31", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schulfrei und erstmals weht die Hakenkreuzfahne auf dem Siegener Rathaus", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "08", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ein Konzentrationslager in W\u00fcrttemberg \u2013 auf dem Truppen\u00fcbungsplatz Heuberg wurde ein Lager f\u00fcr 1500 H\u00e4ftlinge errichtet ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "25", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Hitler wird Ehrenb\u00fcrger von Siegen \u2013 die Sandstra\u00dfe wird nach dem F\u00fchrer benannt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "31", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Sieg-Rheinisches-Volksblatt verboten: Verleger Bernhard Steins in Schutzhaft genommen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "16", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Superintendent Heider begr\u00fc\u00dft auf der Kreissynode in M\u00fcsen die \u201cMachtergreifung\u201d Hitlers", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "19", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Adolf Hitler Ehrenb\u00fcrger von Obersdorf und Gosenbach", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1933", 
+                "day": "01", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "SA\u2011M\u00e4nner in den Polizeidienst \u00fcbernommen, gute Erfolge u. a. aufgrund \u201cneuer Verh\u00f6rmethoden\u201d ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1934", 
+                "day": "17", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Hamm. 26 ber\u00fcchtigte Siegerl\u00e4nder Kommunisten wegen Vorbereitung zum Hochverrat vor dem Oberlandesgericht", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1934", 
+                "day": "30", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Skandal: Schwarz-wei\u00df-rote Fahne auf der Siegener Synagoge anl\u00e4sslich des F\u00fchrer-Geburtstags ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1934", 
+                "day": "21", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Weihe des Ehrenmals in Netphen: erste Gemeinde Deutschlands, die einen feldgrauen K\u00e4mpfer und braunen Soldaten gemeinsam darstellt. Sch\u00f6pfer H. Kuhmichel", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "27", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Reichsautobahnstrecke durch das Siegerland geplant: K\u00f6ln \u2013 Kreuztal \u2013 Kassel ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "01", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Juden sind hier unerw\u00fcnscht Schild am Bahnhof Betzdorf auch f\u00fcr Siegen gew\u00fcnscht", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "27", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Juden in Berleburg werden frech. Kreisleiter Feige fordert von der Bev\u00f6lkerung mehr Enthaltsamkeit im Umgang mit Juden ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "12", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Juden haben keinen Zutritt \u2013 Schild am Eingang des Leimbacher Weihers in Siegen angebracht", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "30", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Pastor Ochse vom Sondergericht Dortmund in Siegen zu sieben Monaten Gef\u00e4ngnis verurteilt", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "27", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegen ist gestern Garnisonstadt geworden \u2013 feierlicher Einmarsch des Infanterieregiments 57 ", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1935", 
+                "day": "16", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Berleburg. Nun weht die HJ\u2011Fahne \u00fcber allen Schulen, 99,45 %  aller Sch\u00fcler sind in der HJ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1936", 
+                "day": "07", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Richtfest f\u00fcr die Kasernengeb\u00e4ude auf dem Fischbacherberg in Siegen", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1936", 
+                "day": "11", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Jude bleibt Jude! Ein Vortrag von Schulrat Hoffmann, Arnsberg, \u00fcber das Judentum ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1936", 
+                "day": "12", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "SA\u2011Siedlung in der Winchenbach geplant \u2011 26 Eigenheime und 68 Kleinsiedlungsstellen", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1937", 
+                "day": "04", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Tag der Siegerl\u00e4nder SS: Denkmal f\u00fcr Julius Schreck in der Adolf-Hitler-Stra\u00dfe eingeweiht", 
+                "text": " Feierlichkeiten im Apollo"
+            }, 
+            "start_date": {
+                "year": "1937", 
+                "day": "25", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Architekt Prof. Hermann Giesler (Siegen) erh\u00e4lt auf der Weltausstellung in Br\u00fcssel den Grandprix f\u00fcr Architektur", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1937", 
+                "day": "29", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "4405 Rundfunkteilnehmer in Siegen gemeldet ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1937", 
+                "day": "13", 
+                "month": "12"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Der F\u00fchrer der SA\u2011Standarte 130, Siegen, Pg Aurand, wurde von der obersten SA-F\u00fchrung nach Wien berufen", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1938", 
+                "day": "03", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Verbot j\u00fcdischer Vornamen f\u00fcr Kinder: Belastung zu gro\u00df f\u00fcr das sp\u00e4tere Leben ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1938", 
+                "day": "24", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201cDas Volk hat geantwortet \u2013 Die Siegener Synagoge in Schutt und Asche\u201d",
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1938", 
+                "day": "11", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Grundsteinlegung f\u00fcr die SA-Siedlung in der Winchenbach in Siegen. SA-Oberf\u00fchrer Merker zugegen", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1938", 
+                "day": "05", 
+                "month": "12"
+            }
+        },        
+	{
+            "text": {
+                "headline": "\u201cJedes deutsche Haus luftschutzbereit! Der Luftschutz\u2011Gedanke im Siegerland \u2013 Zum 6. Jahrestag des Reichsluftschutzbundes\u201d", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1939", 
+                "day": "27", 
+                "month": "04"
+            }
+        },
+        {
+            "text": {
+                "headline": "Ehrentag der deutschen Mutter: Erste Verleihung der vom F\u00fchrer gestifteten Mutterkreuze ", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1939", 
+                "day": "21", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201cSollten Flieger kommen, wir sind gewappnet! Erste Luftschutz\u00fcbung im Luftschutzort Siegen\u201d", 
+                "text": "SNZ/SZ"
+            }, 
+            "start_date": {
+                "year": "1939", 
+                "day": "01", 
+                "month": "07"
+            }
+        },
+        {
+            "text": {
+                "headline": "\u201cDer F\u00fchrer sprach: ...und wir kennen nur dieses Wort: SIEG! Komme, was da wolle!\u201d", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1939", 
+                "day": "02", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Die Glocken l\u00e4uten zum Gedenken an den Sieg \u2011 F\u00fcr die Dauer von sieben Tagen von 12 bis 13 Uhr", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1939", 
+                "day": "03", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Bomben gegen Frauen und Kinder \u2011 So hausten britische Flieger in unserer Heimat",
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1940", 
+                "day": "10", 
+                "month": "10"
+            }
+        },
+        {
+            "text": {
+                "headline": "Prof. Hermann Giesler, Siegen, mit der Neugestaltung Weimars beauftragt",
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1940", 
+                "day": "28", 
+                "month": "11"
+            }
+        },
+        {
+            "text": {
+                "headline": "Das Fest des Lichtes \u2011 Julfeiern bei den M\u00e4nnern der Siegerl\u00e4nder SS",
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1940", 
+                "day": "23", 
+                "month": "12"
+            }
+        },
+        {
+            "text": {
+                "headline": "Wieder Tanzverbot. Wegen der Kampfhandlungen an der Ostfront werden alle Tanzveranstaltungen abgesagt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1941", 
+                "day": "24", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Sondergericht Dortmund in Siegen: Dr. Eckhardt aus Siegen wegen Abh\u00f6rens eines ausl\u00e4ndischen Senders angeklagt", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1941", 
+                "day": "02", 
+                "month": "07"
+            }
+        },
+        {
+            "text": {
+                "headline": "Ein Ehrentag der Siegerl\u00e4nder SA \u2011 Besuch des Stabschefs der SA Lutze in der SA-Siedlung Winchenbach in Siegen", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1941", 
+                "day": "03", 
+                "month": "11"
+            }
+        },
+        {
+            "text": {
+                "headline": "Ein k\u00e4mpferisches Leben \u2013 Paul Giesler wird Gauleiter von Westfalen-S\u00fcd", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1941", 
+                "day": "15", 
+                "month": "11"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "16-j\u00e4hriger Gewaltverbrecher vom Sondergericht in Olpe zum Tode verurteilt - \u201cein warnendes Beispiel\u201d", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1942", 
+                "day": "21", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ver\u00e4nderung in der Lebensmittelzuteilung: Weniger Brot, Fleisch und Fett \u2013 Erh\u00f6hung der K\u00e4seration", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1942", 
+                "day": "20", 
+                "month": "03"
+            }
+        }, 
+	{
+            "text": {
+                "headline": "Erste Deportation Siegerl\u00e4nder und Wittgensteiner Juden nach Zamosc in Polen \u2013 niemand \u00fcberlebt", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1942", 
+                "day": "28", 
+                "month": "04"
+            }
+        },
+        {
+            "text": {
+                "headline": "Sondergericht Dortmund in Siegen: Schwarzschl\u00e4chterei! Zuchthausstrafen \u2013 Oberb\u00fcrgermeister Fi\u00dfmer \u00fcberlebt Suizidversuch", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1942", 
+                "day": "22", 
+                "month": "05"
+            }
+        },
+        {
+            "text": {
+                "headline": "Deportation Siegerl\u00e4nder und Wittgensteiner Juden in das Ghetto Theresienstadt", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1942", 
+                "day": "28", 
+                "month": "07"
+            }
+        },
+        {
+            "text": {
+                "headline": "Paul Giesler mit der F\u00fchrung des Gaues M\u00fcnchen und Oberbayern sowie der Wahrnehmung der Gesch\u00e4fte des bayerischen Ministerpr\u00e4sidenten beauftragt", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1943", 
+                "day": "10", 
+                "month": "02"
+            }
+        },
+        {
+            "text": {
+                "headline": "Die Betriebe sind bereit \u2011 Umfangreiche Vorbereitungen f\u00fcr den kommenden Arbeitseinsatz der Frau", 
+                "text": "SNZ"
+            }, 
+            "start_date": {
+                "year": "1943", 
+                "day": "22", 
+                "month": "02"
+            }
+        },
+        {
+            "text": {
+                "headline": "Deportation Siegerl\u00e4nder und Wittgensteiner Juden nach Auschwitz-Birkenau", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1943", 
+                "day": "27", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegen im Zeichen der M\u00fctterehrung: 10 M\u00fctter erhalten das Ehrenkreuz der deutschen Mutter",
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1943", 
+                "day": "11", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "T\u00e4glich und st\u00fcndlich f\u00fcr den Sieg! Gauleiter Albert Hoffmann sprach vor 25 000 M\u00e4nnern und Frauen des Siegerlandes",
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1943", 
+                "day": "06", 
+                "month": "09"
+            }
+        },
+        {
+            "text": {
+                "headline": "Da ist kein Mitleid angebracht \u2013 Gegen Bettelei von Ostarbeitern! Gef\u00fchlsduselei von Volksgenossen", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1944", 
+                "day": "16", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "F\u00fchrer, wir geh\u00f6ren Dir! Die 10-J\u00e4hrigen des Siegerlandes gestern auf Adolf Hitler verpflichtet ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1944", 
+                "day": "20", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "\u201cEhrvergessene Frauen\u201d Landgericht verurteilt zwei Frauen wegen eines Verh\u00e4ltnisses zu Zwangsarbeitern zu 2 Jahren 6 Monaten", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1944", 
+                "day": "03", 
+                "month": "07"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Deportation j\u00fcdischer Frauen, die mit Christen verheiratet sind, nach Kassel-Bettenhausen", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1944", 
+                "day": "29", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schwerer Luftangriff auf Siegen: 346 Tote \u2013 Eine Woche keine Ausgaben von SZ/SNZ \u2013 Zeitungsumfang sowie Erscheinen stark eingeschr\u00e4nkt", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1944", 
+                "day": "16", 
+                "month": "12"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Der F\u00fchrer: Wende wird noch in diesem Jahr kommen ", 
+                "text": "SZ"
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "26", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Letzte Ausgabe der SZ bis zur Wiederzulassung durch die Alliierten am 1. November 1949 ", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "24", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Siegen wird nach kurzem Kampf mit den amerikanischen Truppen erobert", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "02", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Major Braine ernennt Fritz Fries zum Landrat", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "16", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Abends um 20.30 Uhr verk\u00fcndet ein durch Siegen fahrender Lautsprecherwagen das Ende des Krieges", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "07", 
+                "month": "05"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Wellersberg\u2011Kasernen werden \"Hauptdurchgangslager f\u00fcr Fl\u00fcchtlinge\"", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1945", 
+                "day": "01", 
+                "month": "12"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "CDU\u2011Kreisverband Siegen im evangelischen Gemeindehaus Tiergartenstra\u00dfe gegr\u00fcndet", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1946", 
+                "day": "04", 
+                "month": "01"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Heinrich Otto (KPD) zum Landrat bestimmt", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1946", 
+                "day": "04", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Erlaubnis f\u00fcr Parteien, Zeitungen herauszugeben, Heimatzeitungen wie die SZ bleiben weiterhin verboten ", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1946", 
+                "day": "01", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "In Siegen tritt erstmals ein 10-k\u00f6pfiger  Entnazifizierungsausschuss zusammen ", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1947", 
+                "day": "03", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": " Erste Landtagswahlen in NRW nach \"berufenem Parlament\"", 
+                "text": ""
+            }, 
+            "start_date": {
+                "year": "1947", 
+                "day": "20", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ein System auf der Anklagebank: Odendahl erinnert sich nicht \u2011  Prozess gegen den Siegener SA\u2011F\u00fchrer", 
+                "text": "WR/WP"
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "10", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Urteile gegen Schwarzschl\u00e4chter, Zuckerdiebe und Warenhorter", 
+                "text": "WP"
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "07", 
+                "month": "04"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Prozess gegen den ehemaligen Siegener Kripo-Leiter Koberzien: Naziaktivist und Kriegsverbrecher", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "09", 
+                "month": "06"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Ehemalige SA-Terroristen fanden milde Richter und vers\u00f6hnliche Zeugen", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "10", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Das Kerbholz der SS wird untersucht \u2013 Anklage wegen Verbrechen gegen die Menschlichkeit ", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "14", 
+                "month": "09"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schwurgerichtsverhandlung wegen Synagogenbrand in Siegen am 10. November 1938", 
+                "text": "WP/WR"
+            }, 
+            "start_date": {
+                "year": "1948", 
+                "day": "22", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Neun Grabsteine auf dem j\u00fcdischen Friedhof in Hilchenbach umgest\u00fcrzt: Zwei 14-J\u00e4hrige als T\u00e4ter ermittelt", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1949", 
+                "day": "04", 
+                "month": "02"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Urteile wegen der Anordnung der Deportation von Zigeunern aus Berleburg ", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1949", 
+                "day": "05", 
+                "month": "03"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Schwurgerichtsverhandlung in Siegen wegen Totschlag an einem Italiener am 9. M\u00e4rz 1945", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1949", 
+                "day": "25", 
+                "month": "10"
+            }
+        }, 
+        {
+            "text": {
+                "headline": " Revisionsverhandlung vor dem Siegener Schwurgericht gegen einen ehemaligen Gestapo-Beamten wegen Totschlags ", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1950", 
+                "day": "30", 
+                "month": "08"
+            }
+        }, 
+        {
+            "text": {
+                "headline": "Belgische Besatzungsmacht \u00fcbernimmt neue Siedlung in Siegen am Witschert ", 
+                "text": "WR "
+            }, 
+            "start_date": {
+                "year": "1950", 
+                "day": "28", 
+                "month": "09"
+            }
+        }
+    ]
+}
